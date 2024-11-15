@@ -2,7 +2,7 @@
 matplotlib==3.8.2
 streamlit==1.30.0
 pandas==2.2.0
-numpy==1.25.2
+numpy>=1.26.0
 seaborn
 plotly
 scikit-learn
@@ -10,6 +10,7 @@ selenium
 fpdf
 
 # Dependências Adicionais
+setuptools  # Necessário para resolver o erro "No module named 'distutils'"
 altair==5.0.1
 attrs==23.1.0
 autopep8==1.6.0
