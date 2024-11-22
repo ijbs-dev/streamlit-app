@@ -62,6 +62,16 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 
 ## Funcionalidades
 ⚙️ 
+
+a) Inicialmente podemos observar tela de Home:
+![home](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/home.jpg)
+
+b) Upload de arquivo .csv:
+![upload](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/upload%20csv.jpg)
+
+c) Selecao das opções:
+![selecao](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/sele%C3%A7%C3%A3o.jpg)
+
 A aplicação possui as seguintes funcionalidades:
 
 - **Análise Descritiva**: Exibe um heatmap das estatísticas descritivas dos dados.
