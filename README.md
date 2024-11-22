@@ -22,8 +22,8 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 
 ---
 
-## 🛠️ Instalação
-
+## Instalação
+🛠️ 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/streamlit-app.git
@@ -44,8 +44,8 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 
 ---
 
-## 🚀 Como Usar
-
+## Como Usar
+🚀 
 1. Execute o aplicativo Streamlit:
    ```bash
    streamlit run app.py
@@ -60,8 +60,8 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 
 ---
 
-## ⚙️ Funcionalidades
-
+## Funcionalidades
+⚙️ 
 A aplicação possui as seguintes funcionalidades:
 
 - **Análise Descritiva**: Exibe um heatmap das estatísticas descritivas dos dados.
@@ -96,8 +96,8 @@ A aplicação possui as seguintes funcionalidades:
 
 ---
 
-## 📂 Estrutura do Projeto
-
+## Estrutura do Projeto
+📂 
 ```plaintext
 streamlit-app/
 ├── assets/                   # Arquivos de imagens e recursos visuais
@@ -111,8 +111,8 @@ streamlit-app/
 
 ---
 
-## 🛠️ Tecnologias
-
+## Tecnologias
+🛠️ 
 As principais bibliotecas e frameworks utilizados no desenvolvimento deste projeto são:
 
 - **[Streamlit](https://streamlit.io/)** - Interface web interativa para dados em Python
