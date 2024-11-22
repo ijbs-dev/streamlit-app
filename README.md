@@ -9,9 +9,6 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 - [Como Usar](#como-usar)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias](#tecnologias)
-- [Contribuição](#contribuição)
-
 ---
 
 ## 🌟 Recursos
@@ -68,11 +65,34 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 A aplicação possui as seguintes funcionalidades:
 
 - **Análise Descritiva**: Exibe um heatmap das estatísticas descritivas dos dados.
+
+![Análise Descritiva](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/analise_descritiva.png)
+
 - **Relação PRP e ERP**: Mostra uma análise de dispersão entre as variáveis `Desemp_relat_publicado` e `Desemp_relat_estimado`.
+  
+![Relação PRP e ERP](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/relacao_desempenho.png)
+
 - **Avaliação do Modelo**: Avalia um modelo preditivo com métricas como MAE, MSE, RMSE, MAPE e Acurácia.
+  
+![Avaliação do Modelo](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/avaliacao_modelo.png)
+
 - **Clusterização 3D e 2D**: Visualizações interativas dos clusters formados a partir de variáveis selecionadas.
+
+  - Clusterização 2D
+    
+![Clusterização 2D](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/clusterizacao_cpus_2d.png)
+
+  - Clusterização 3D
+    
+![Clusterização 3D](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/clusterizacao_cpus_3d.png)
+
 - **Importância das Características**: Exibe a importância das variáveis utilizadas pelo modelo preditivo.
+  
+![Importância das Características](https://github.com/ijbs-dev/streamlit-app/blob/main/result_img/importancia_caracteristicas.png)
+
 - **Exportação em PDF**: Gera um relatório PDF com as análises e visualizações selecionadas.
+  
+![Exportação em PDF](https://github.com/ijbs-dev/streamlit-app/blob/main/Relatorio_Analise_Performance_Hardware.pdf)
 
 ---
 
@@ -106,30 +126,4 @@ As principais bibliotecas e frameworks utilizados no desenvolvimento deste proje
 
 ---
 
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas! Para contribuir, siga os passos abaixo:
-
-1. Faça um fork do projeto
-2. Crie uma nova branch:
-   ```bash
-   git checkout -b feature/nova-funcionalidade
-   ```
-3. Commit suas alterações:
-   ```bash
-   git commit -m "Adiciona nova funcionalidade"
-   ```
-4. Envie para a branch principal:
-   ```bash
-   git push origin feature/nova-funcionalidade
-   ```
-5. Abra um Pull Request
-
----
-
-## 👤 Autor
-
-Criado por **[Ismael Jefte](https://github.com/ijbs-dev)**. 
-
----
 
