@@ -11,7 +11,7 @@ Este projeto consiste em uma aplicação web desenvolvida em Python com Streamli
 - [Estrutura do Projeto](#estrutura-do-projeto)
 ---
 
-## 🌟 Recursos
+## Recursos
 
 - Análise descritiva dos dados
 - Relação de desempenho entre variáveis (PRP e ERP)
